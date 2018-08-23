@@ -1,7 +1,7 @@
 # tldr-pages.github.io
 
 This repository holds the website for the [tldr project](https://github.com/tldr-pages/tldr),
-hosted at **https://tldr.sh**.
+hosted at **https://tldr-pages.github.io/**.
 
 ## Credits
 
